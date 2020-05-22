@@ -6,3 +6,4 @@ app.use (express.json());
 
 app.use (express.static("public"));
 
+var htmlRoutes = require ("./routes/html")

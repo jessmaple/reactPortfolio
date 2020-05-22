@@ -1,10 +1,11 @@
 import React from 'react';
 // import './App.css';
 import './style.css';
-// import Logo from './images/logo.png'; 
+import {BrowserRouter as Router} from 'react-router-dom';
 
 function App() {
   return (
+    <Router>
     <div>
       <div className="navigation-bar">
     <div id="navigation-container">
@@ -33,6 +34,7 @@ function App() {
     </div>
   </div>
   </div>
+  </Router>
   );
 }
 

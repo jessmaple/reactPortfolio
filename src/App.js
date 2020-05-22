@@ -19,13 +19,13 @@ function App() {
     <div className="container">
       <p className="title">
         <h1>Hi! I'm Jessica Maple, a full-stack developer
-          <br>
+          <br/>
           based in Atlanta, Georgia
         </h1>
       </p>
     </div>
-    <br>
-    <br>
+    <br/>
+    <br/>
     <div className="footer">
       <p>© jessica maple 2020 | All Rights Reserved</p>
     </div>

@@ -1,14 +1,14 @@
 import React from 'react';
 // import './App.css';
-import './style.css'
-// import './logo.png'
+import './style.css';
+import Logo from './images/logo.png'; 
 
 function App() {
   return (
     <div>
       <div className="navigation-bar">
     <div id="navigation-container">
-      {/* <img src={logo}/> */}
+         src={Logo}
       <ul>
         <li><a href="about.html">about</a></li>
         <li><a href="work.html">work</a></li>

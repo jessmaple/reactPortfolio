@@ -8,7 +8,7 @@ function App() {
     <div>
       <div className="navigation-bar">
     <div id="navigation-container">
-      <a href="index.html"><img src="./assets/logo.png" width="100"/></a>
+      <img src="/public/logo.png">
       <ul>
         <li><a href="about.html">about</a></li>
         <li><a href="work.html">work</a></li>
